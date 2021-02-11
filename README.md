@@ -15,24 +15,24 @@
   </a>
 
   <!-- PROJECT TITLE -->
-  <h1 align="center"><#PROJECT TITLE#></h1>
+  <h1 align="center">OSU HART User Interface</h1>
 
   <p align="center">
     <!-- SHORT PROJECT DESCRIPTION -->
-    <#SHORT PROJECT DESCRIPTION#>
+    User interface for the OSU HART Control Box
     <br />
     <!-- LINK TO DOCUMENTATION -->
-    <a href="https://hart-avionics.github.io/<#PROJECT#>/"><strong>Explore the docs »</strong></a>
+    <a href="https://hart-avionics.github.io/osu-hart-user-interface/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- LINK TO DEMO
     <a href="INSERT LINK TO DEMO HERE">View Demo</a>
     · -->
     <!-- LINK TO ISSUES -->
-    <a href="https://github.com/HART-Avionics/<#PROJECT#>/issues">Report Bug</a>
+    <a href="https://github.com/HART-Avionics/osu-hart-user-interface/issues">Report Bug</a>
     ·
     <!-- LINK TO ISSUES -->
-    <a href="https://github.com/HART-Avionics/<#PROJECT#>/issues">Request Feature</a>
+    <a href="https://github.com/HART-Avionics/osu-hart-user-interface/issues">Request Feature</a>
   </p>
 </p>
 
@@ -60,7 +60,7 @@ Table of Contents
 About the Project
 ---------------------
 <!-- Description of the project and it's intended purpose or origin story. -->
-<#LONG PROJECT DESCRIPTION#>
+This is the user interface for the Control Box, which includes both the Control side of the Launch System as well as the main computerfor processing the telemetry and displaying the information onto the display. The interface is comprised mostly of buttons, ld switches used for launching the rocket, and a display for displaying the telemetry data.
 
 This project is currently under construction.
 
@@ -106,7 +106,7 @@ $ sudo apt-get install texlive-latex-recommended texlive-fonts-recommended texli
 ### Installing
 1. Clone the repo
     ```bash
-    $ git clone https://github.com/HART-Avionics/<#PROJECT#>.git
+    $ git clone https://github.com/HART-Avionics/osu-hart-user-interface.git
     ```
 
 <a name="usage"></a>
@@ -178,17 +178,17 @@ Acknowledgements
 -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[cicd-shield]: https://github.com/HART-Avionics/<#PROJECT#>/workflows/CI/CD/badge.svg?branch=develop
+[cicd-shield]: https://github.com/HART-Avionics/osu-hart-user-interface/workflows/CI/CD/badge.svg?branch=develop
 [cicd-url]: https://github.com/HART-Avionics/docs/actions "CI/CD"
-[contributors-shield]: https://img.shields.io/github/contributors/HART-Avionics/<#PROJECT#>
-[contributors-url]: https://github.com/HART-Avionics/<#PROJECT#>/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HART-Avionics/<#PROJECT#>
-[forks-url]: https://github.com/HART-Avionics/<#PROJECT#>/network/members
-[stars-shield]: https://img.shields.io/github/stars/HART-Avionics/<#PROJECT#>
-[stars-url]: https://github.com/HART-Avionics/<#PROJECT#>/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HART-Avionics/<#PROJECT#>
-[issues-url]: https://github.com/HART-Avionics/<#PROJECT#>/issues
-[license-shield]: https://img.shields.io/github/license/HART-Avionics/<#PROJECT#>
-[license-url]: https://github.com/HART-Avionics/<#PROJECT#>/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/HART-Avionics/osu-hart-user-interface
+[contributors-url]: https://github.com/HART-Avionics/osu-hart-user-interface/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HART-Avionics/osu-hart-user-interface
+[forks-url]: https://github.com/HART-Avionics/osu-hart-user-interface/network/members
+[stars-shield]: https://img.shields.io/github/stars/HART-Avionics/osu-hart-user-interface
+[stars-url]: https://github.com/HART-Avionics/osu-hart-user-interface/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HART-Avionics/osu-hart-user-interface
+[issues-url]: https://github.com/HART-Avionics/osu-hart-user-interface/issues
+[license-shield]: https://img.shields.io/github/license/HART-Avionics/osu-hart-user-interface
+[license-url]: https://github.com/HART-Avionics/osu-hart-user-interface/blob/main/LICENSE
 [sphinx-docs]: https://www.sphinx-doc.org/en/master/index.html
 [donate-url]: https://osuaiaa.com/donate

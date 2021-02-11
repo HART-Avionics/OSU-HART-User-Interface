@@ -1,4 +1,4 @@
-Welcome to <#PROJECT TITLE#>'s documentation!
+Welcome to OSU HART User Interface's documentation!
 ==============================================
 
 .. toctree::
